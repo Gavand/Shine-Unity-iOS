@@ -1,2 +1,2 @@
 # Shine-Unity-iOS
-Augmented reality action-adventure mobile game using C# in Unity game engine.
+Augmented Reality Action-adventure mobile game using Unity game engine to grant users the capability to experience star constellations in AR and enter a side-scrolling endless runner gameplay. Comprised C# scripts to execute functions and scenes, used assets like models, editors, and sprites for a vigorous gameplay experience with original graphics, original scripts, and prefab assets. Consolidated Vuforia AR Software Development Kit (SDK) for iOS, configured scripts to recognize gyroscope and GPS for device tracking, and composed scripts to manage components and controls.
